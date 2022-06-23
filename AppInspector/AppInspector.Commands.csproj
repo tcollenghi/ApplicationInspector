@@ -60,7 +60,7 @@
     <PackageReference Include="DotLiquid" Version="2.0.361" />
     <PackageReference Include="Microsoft.CST.OAT" Version="1.0.74" />
     <PackageReference Include="Microsoft.CST.RecursiveExtractor" Version="1.0.36" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="NLog" Version="4.7.5" />
   </ItemGroup>
 
